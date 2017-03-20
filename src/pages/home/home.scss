@@ -1,3 +1,16 @@
 page-home {
+    .subtle {
+        color: gray;
+    }
 
+    .footerbar {
+        position: absolute;
+        bottom: 16px;
+        height: 70px;
+        width: 97%;
+
+        button {
+            height: 100%;
+        }
+    }
 }
